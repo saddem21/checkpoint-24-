@@ -1,0 +1,15 @@
+{
+  "name": "essai12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file2.js",
+  "scripts": {
+    "start":"nodemon file2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
